@@ -6,7 +6,7 @@ Here are some useful resources on Numerical Methods and related topics:
 
 - [Matrix Inversion Method](https://youtu.be/B9Z2e9LSuNw?si=tPMCrtXLwaPYDT01) //Ei channel theke civil er porao korte parbe
 
-- [Euler Method[(https://youtu.be/zD-Mg4ZUGsE?si=EUx80xv5IyffJHNV)
+- [Euler Method](https://youtu.be/zD-Mg4ZUGsE?si=EUx80xv5IyffJHNV)
 - [Euler Modified Method](https://youtu.be/blRU3nSeuns?si=QjtMLlqefnI-oxwM)
 - [Another Video for Euler and Modified Euler](https://youtu.be/U8-4HLKtmDM?si=qhHLMu3A-T3NursZ)
 - [Runge Kutta Method of Order 4](https://youtu.be/Ym1EUjTWMnE?si=h9cd-6zsfiB8Jdrw)
