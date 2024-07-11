@@ -14,4 +14,4 @@ Here are some useful resources on Numerical Methods and related topics:
 - [Kruskal + Prims](https://youtu.be/f30rxGvPWPo?si=QQaQzxB7psulkG7r)
 - [BFS](https://youtu.be/2r1zm4UYDEE?si=7zmTlZQ_swJVaPDU)
 - [DFS](https://youtu.be/_LGvAPlGd50?si=9JuBGrmfZyVEgTAm) //porer 2 to video o dekhe nao.. example
-- 
+  
